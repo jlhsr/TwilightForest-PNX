@@ -5,7 +5,8 @@
 
 
 
-原创移植的老牌暮色森林模组 适用于基岩版nk服务器 并按我的喜好添加了一些新特性
+原创开发的暮色森林插件 适用于基岩版nk服务器 并按我的喜好添加了一些新特性
+相比原版 BOOS都会有不同程度的加强 更具有挑战性 适合服务器多人PVE
 目前还在虚空创造服早期测试
 ![JM$4EN301K4LB5%$J3WW}SM](https://user-images.githubusercontent.com/22098995/195042112-6229f04e-8e09-44d5-af8f-b66f1ccc1fa3.png)
 ![BX(Q6M DY{Q(_5$F@5ZOAGL](https://user-images.githubusercontent.com/22098995/195042127-a461cc8b-eb6b-42dd-95a6-feb1abd8a048.png)
