@@ -19,12 +19,12 @@ Java版暮色森林地图转译生成
 BOSS战背景音乐
 娜迦竞技场
 巫妖王高塔
-德鲁伊的小屋!
-[$ WT9KOJKQ7_}1WO)WMD3D6](https://user-images.githubusercontent.com/22098995/195042190-a64aafd5-dc27-4afe-b0b3-e1226e0bd826.png)
+德鲁伊的小屋
 
  方块转化
+![$ WT9KOJKQ7_}1WO)WMD3D6](https://user-images.githubusercontent.com/22098995/195044625-4ac2793d-d223-4074-94d6-d82af8020e6d.png)
 
-支持以下新功能【仍在开发中 目前为早期版本】
+支持以下新功能【仍在开发中 目前为早期版本 方块命名空间未完全确定】
 萤火虫罐子
 暮色云顶树
 苍穹树
@@ -35,6 +35,6 @@ BOSS战背景音乐
 ![276_ACHGKXYNB3AZ PKE8RX](https://user-images.githubusercontent.com/22098995/195042296-644bf9da-76ca-4ae1-8a34-00ea4f17227e.png)
 
 插件还在持续更新中
-需要前置插件 xkcore【音效支持】 xkrpg【刷怪支持】 worldfix-TF【方块转化】 
+需要软前置插件 xkcore【音效支持】 xkrpg【刷怪支持】 worldfix-TF【方块转化】 
 
 
