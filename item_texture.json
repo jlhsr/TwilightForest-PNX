@@ -1,0 +1,15 @@
+{
+    "resource_pack_name": "vanilla",
+    "texture_name": "atlas.items",
+    "texture_data": {
+        "steeleaf_chestplate": {
+            "textures": "textures/items/steeleaf_chestplate"
+        },
+        "steeleaf_sword": {
+            "textures": "textures/items/steeleaf_sword"
+        },
+        "deer":{
+            "textures": "textures/items/deer"
+        }
+    }
+}

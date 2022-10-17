@@ -1,0 +1,47 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+	    "canopy_wood": {
+			"textures": "textures/blocks/canopy_side"
+    },
+	    "canopy_top": {
+			"textures": "textures/blocks/canopy_top"
+    },
+		    "oak_wood": {
+			"textures": "textures/blocks/oak_side"
+    },
+		    "oak_top": {
+			"textures": "textures/blocks/oak_top"
+    },
+		    "dark_wood": {
+			"textures": "textures/blocks/darkwood_side"
+    },
+		    "dark_top": {
+			"textures": "textures/blocks/darkwood_top"
+    },
+		    "dark_leaves": {
+			"textures": "textures/blocks/dark_wood_leaves"
+    },
+		    "tower_wood_plain": {
+			"textures": "textures/blocks/tower_wood_plain"
+    },	
+		    "tower_wood_encased": {
+			"textures": "textures/blocks/tower_wood_encased"
+    },	
+		    "tower_wood_mossy": {
+			"textures": "textures/blocks/tower_wood_mossy"
+    },	
+		    "tower_wood_infested": {
+			"textures": "textures/blocks/tower_wood_infested"
+    },		
+	    "firefly": {
+      "textures": [
+        "textures/blocks/firefly"
+      ]
+    }
+	
+  }
+}
