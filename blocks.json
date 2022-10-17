@@ -1,0 +1,42 @@
+{
+  "format_version": [
+    1,
+    1,
+    0
+  ],
+  "xk:redstoneluckyblock": {
+    "sound": "metal"
+  },
+    "twilightforest:canopy_wood": {
+    "sound": "wood"
+  },
+      "twilightforest:oak_wood": {
+    "sound": "wood"
+  },
+      "twilightforest:dark_wood": {
+    "sound": "wood"
+  },
+      "twilightforest:dark_leaves": {
+    "sound": "leaves"
+  },
+        "twilightforest:tower_wood_plain": {
+    "sound": "wood"
+  },
+        "twilightforest:tower_wood_encased": {
+    "sound": "wood"
+  },
+        "twilightforest:tower_wood_mossy": {
+    "sound": "wood"
+  },
+        "twilightforest:tower_wood_infested": {
+    "sound": "wood"
+  },
+	  "twilightforest:firefly": {
+    "textures": {
+      "up": "",
+      "down": "",
+      "side": ""
+    },
+    "sound": "glass"
+	}
+}

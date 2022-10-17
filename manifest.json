@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "BY.XKSHADOW",
+    "name": "§d虚空之遗服务器§6资源包",
+    "uuid": "00000000-0000-0000-0000-000020160301",
+    "version": [1, 0, 11],
+    "min_engine_version": [1, 14, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "dde211f9-e1a6-435e-9a84-06fa9242f63e",
+      "version": [1, 0, 0]
+    }
+  ]
+}
