@@ -1,5 +1,7 @@
 # TwilightForest-PNX
 
+适配APIpowernukktx 1.19.31-r2
+
 它是什么？？？
 ![1664768686783](https://user-images.githubusercontent.com/22098995/195042810-ebd923fa-a5c2-43dd-85ee-0609f347e28a.png)
 
