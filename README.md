@@ -1,15 +1,16 @@
 # TwilightForest-PNX
 
-适配APIpowernukktx 1.19.31-r2
+customAPI powernukktx 1.19.31-r2
 
-它是什么？？？
+What is it??
 ![1664768686783](https://user-images.githubusercontent.com/22098995/195042810-ebd923fa-a5c2-43dd-85ee-0609f347e28a.png)
 
 
 
-原创开发的暮色森林插件 适用于基岩版nk服务器 并按我的喜好添加了一些新特性
-相比原版 BOOS都会有不同程度的加强 更具有挑战性 适合服务器多人PVE
-目前还在虚空创造服早期测试
+The Twilight Forest plugin works with the Bedrock nukkit server and adds some new features to my liking
+Compared with the original BOOS, it will be strengthened to different degrees. It is more challenging and suitable for server multi-player PVE
+- plugins are mainly RPG content [Buildings/world /Boos/ weapons/exploration]
+Some of the buildings in the Void architectural suit were repaired by the player team
 ![JM$4EN301K4LB5%$J3WW}SM](https://user-images.githubusercontent.com/22098995/195042112-6229f04e-8e09-44d5-af8f-b66f1ccc1fa3.png)
 ![BX(Q6M DY{Q(_5$F@5ZOAGL](https://user-images.githubusercontent.com/22098995/195042127-a461cc8b-eb6b-42dd-95a6-feb1abd8a048.png)
 ![LE_MF({AYEFH7VB6Z38XX45](https://user-images.githubusercontent.com/22098995/195042142-4e9fc701-eb1d-4038-9fa6-958bac977003.png)
