@@ -1,0 +1,8 @@
+name: TwilightForest
+main: Main
+version: "1.0.0"
+api: [ "1.0.14" ]
+load: POSTWORLD
+author: XKSAHDOW
+description: TwilightForest!
+prefix: "ExperimentMode"
