@@ -1,6 +1,7 @@
 # TwilightForest-PNX
 
-customAPI Powernukktx 1.19.51-r3 https://github.com/PowerNukkitX/PowerNukkitX
+customAPI Powernukktx 1.19.51-r4 https://github.com/PowerNukkitX/PowerNukkitX
+We recommend using 0.3 version Used formally
 
 What is it??
 ![1664768686783](https://user-images.githubusercontent.com/22098995/195042810-ebd923fa-a5c2-43dd-85ee-0609f347e28a.png)
@@ -39,7 +40,6 @@ BOSS战背景音乐
 钢叶剑 钢叶胸甲
 ![276_ACHGKXYNB3AZ PKE8RX](https://user-images.githubusercontent.com/22098995/195042296-644bf9da-76ca-4ae1-8a34-00ea4f17227e.png)
 
-插件还在持续更新中
-需要软前置插件 xkcore【音效支持】 xkrpg【刷怪支持】 worldfix-TF【方块转化】 
+
 
 
